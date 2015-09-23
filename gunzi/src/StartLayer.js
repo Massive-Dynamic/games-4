@@ -1,7 +1,10 @@
 /**
- * Created by yjh on 15/9/23.
+ * HTML游戏源码教程
+ * http://longwenjunjie.github.io/games
+ *
+ * 合作QQ:465936140
+ *
  */
-
 var StartLayer = cc.Layer.extend({
     ctor:function(){
         this._super();

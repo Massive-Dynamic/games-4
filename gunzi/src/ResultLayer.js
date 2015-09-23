@@ -1,5 +1,9 @@
 /**
- * Created by ccy on 2015/7/19.
+ * HTML游戏源码教程
+ * http://longwenjunjie.github.io/games
+ *
+ * 合作QQ:465936140
+ *
  */
 var ResultLayer = cc.Layer.extend({
     ctor:function(){
