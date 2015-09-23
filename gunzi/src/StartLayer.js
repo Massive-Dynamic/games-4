@@ -19,18 +19,19 @@ var StartLayer = cc.Layer.extend({
             anchorX:0.5,
             anchorY:0.5
         });
-        var menu =new cc.Menu();
+        var menu = new cc.Menu();
         menu.x = 0;
         menu.y = 0;
-        this.addChild(menu,10);
+        this.addChild(menu, 10);
         menu.addChild(menuItemStart);
+
         var bkImage = new cc.Sprite(res.startbk);
         var bkSize = bkImage.getContentSize();
         var rate = Math.max(bkSize.width/size.width,bkSize.height/size.height);
         bkImage.setScale(1/rate);
         bkImage.attr({
-            x:size.width/2,
-            y:size.height/2,
+            x:size.width / 2,
+            y:size.height / 2,
             anchorX:0.5,
             anchorY:0.5
         });
