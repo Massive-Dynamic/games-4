@@ -9,5 +9,7 @@ QQ群：236030520
 
 打飞机：http://longwenjunjie.github.io/games/dafeiji
 
-小熊打砖块：http://longwenjunjie.github.io/games/azhuankuai
+小熊打砖块：http://longwenjunjie.github.io/games/dazhuankuai
+
+围住小羊驼：http://longwenjunjie.github.io/games/xiaoyangtuo
 
