@@ -1,8 +1,8 @@
 /**
- * HTML游戏源码教程
+ * HTML5游戏源码教程
  * http://longwenjunjie.github.io/games
  *
- * 合作QQ:465936140
+ * QQ群:236030520
  *
  */
 var GameLayer = cc.Layer.extend({

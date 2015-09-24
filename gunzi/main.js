@@ -1,8 +1,8 @@
 /**
- * HTML游戏源码教程
+ * HTML5游戏源码教程
  * http://longwenjunjie.github.io/games
  *
- * 合作QQ:465936140
+ * QQ群:236030520
  *
  */
 
@@ -13,6 +13,7 @@ cc.game.onStart = function(){
     var designSize = cc.size(480, 800);
     cc.loader.resPath = "res";
     cc.view.setDesignResolutionSize(designSize.width, designSize.height, cc.ResolutionPolicy.SHOW_ALL);
+    cc.view.resizeWithBrowserSize(true);
 
     //load resources
     cc.LoaderScene.preload(g_resources, function () {
