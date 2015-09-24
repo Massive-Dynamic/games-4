@@ -13,3 +13,5 @@ QQ群：236030520
 
 围住小羊驼：http://longwenjunjie.github.io/games/xiaoyangtuo
 
+饥饿英雄：http://longwenjunjie.github.io/games/jieyingxiong
+
