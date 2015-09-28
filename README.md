@@ -17,3 +17,5 @@ QQ群：236030520
 
 洛克-滚蛋小游戏：http://longwenjunjie.github.io/games/luoke
 
+2048：http://longwenjunjie.github.io/games/2048
+
