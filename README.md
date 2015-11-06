@@ -19,3 +19,6 @@ QQ群：236030520
 
 2048：http://longwenjunjie.github.io/games/2048
 
+//HTML5 其他
+进度条一：http://longwenjunjie.github.io/games/html5-css3-progress-bar/index.html
+
