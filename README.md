@@ -19,6 +19,10 @@ QQ群：236030520
 
 2048：http://longwenjunjie.github.io/games/2048
 
+合体积木：http://longwenjunjie.github.io/games/blockgame
+
+八爪鱼拉拉手：http://longwenjunjie.github.io/games/bzylls
+
 //HTML5 其他
 进度条一：http://longwenjunjie.github.io/games/html5-css3-progress-bar/index.html
 
