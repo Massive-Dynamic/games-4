@@ -27,5 +27,5 @@ QQ群：236030520
 
 //HTML5 其他
 进度条一：http://longwenjunjie.github.io/games/html5-css3-progress-bar/index.html
-进度条一：http://longwenjunjie.github.io/games/login/index.html
 
+登录：http://longwenjunjie.github.io/games/login/index.html
