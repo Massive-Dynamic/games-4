@@ -23,6 +23,9 @@ QQ群：236030520
 
 八爪鱼拉拉手：http://longwenjunjie.github.io/games/bzylls
 
+圣诞老人过河：http://longwenjunjie.github.io/games/shdlrgh
+
 //HTML5 其他
 进度条一：http://longwenjunjie.github.io/games/html5-css3-progress-bar/index.html
+进度条一：http://longwenjunjie.github.io/games/login/index.html
 
